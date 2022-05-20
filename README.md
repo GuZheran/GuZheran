@@ -8,9 +8,9 @@
 
 ![GuZheran's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuZheran)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuZheran)](https://github.com/GuZheran/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuZheran)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuZheran&layout=compact)](https://github.com/GuZheran/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuZheran&layout=compact)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
