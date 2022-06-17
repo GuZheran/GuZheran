@@ -2,7 +2,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" width = "40%" height = "40%" />
 </div>  
 
-# <div align="center">I'm GuZheran! Hello! </div>  
+# <div align="center">I'm accomplishment! Hello! </div>  
 
 ## About My Github
 
